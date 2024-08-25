@@ -1,0 +1,2 @@
+Prefix plugins/NCBI2Newick/example/
+Plugin NCBI2Newick inputfile ncbiIDs.unique.txt outputfile phylo.tree
